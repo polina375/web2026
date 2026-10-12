@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2,
+    "fullName": "Петров Пётр Петрович",
+    "group": "p3302",
+    "isuId": 456456,
+    "dormNumber": 9,
+    "room": 210,
+    "moveInDate": "2026-09-01",
+    "isForeigner": false,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "fullName": "Никитин Никита Никитич",
+    "group": "p3222",
+    "isuId": 676767,
+    "dormNumber": 8,
+    "room": 215,
+    "moveInDate": "2025-09-01",
+    "isForeigner": false,
+    "notes": "программист"
+  }
+]
